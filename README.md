@@ -13,9 +13,9 @@ Comandos:
 
     cd NextJS-AWS-Deploy
 
-    npm run-script deploy
-
     npm install -g serverless
+
+    npm run-script deploy
   
 package.json
   
