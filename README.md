@@ -7,19 +7,24 @@ Pre-requisitos:
   - NodeJS. https://nodejs.org/es/
   - Serverless Framework. https://www.serverless.com/
 
-  git clone https://github.com/altaga/NextJS-AWS-Deploy
-  cd NextJS-AWS-Deploy
-  npm run-script deploy
-  npm install -g serverless
+Comandos:
+
+    git clone https://github.com/altaga/NextJS-AWS-Deploy
+
+    cd NextJS-AWS-Deploy
+
+    npm run-script deploy
+
+    npm install -g serverless
   
 package.json
   
-  "deploy": "npx serverless"
+    "deploy": "npx serverless"
   
 serverless.yml
   
-  myNextApplication:
-  component: "@sls-next/serverless-component"
+    myNextApplication:
+    component: "@sls-next/serverless-component"
 
 Para mas detalles sobre el framework Serverless.
 
