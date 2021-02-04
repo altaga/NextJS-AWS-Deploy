@@ -12,10 +12,6 @@ Comandos:
     git clone https://github.com/altaga/NextJS-AWS-Deploy
 
     cd NextJS-AWS-Deploy
-
-    npm install -g serverless
-
-    npm run-script deploy
   
 package.json
   
@@ -26,6 +22,12 @@ serverless.yml
     myNextApplication:
     component: "@sls-next/serverless-component"
 
+Comando Final:
+
+    npm run-script deploy
+
+Y listo. :3
+
 Para mas detalles sobre el framework Serverless.
 
 https://www.serverless.com/blog/serverless-nextjs
@@ -34,5 +36,5 @@ Para mas Detalles de NextJS API:
 
 https://nextjs.org/docs/api-routes/introduction
   
-Y listo. :3
+
   
