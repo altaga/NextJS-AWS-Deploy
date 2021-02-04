@@ -5,7 +5,7 @@ Pre-requisitos:
   - Cuenta en capa gratuita de AWS.
   - AWS CLI. https://aws.amazon.com/cli/
   - NodeJS. https://nodejs.org/es/
-  - Serverless Framework. https://www.serverless.com/
+  - Serverless Framework (No es necesario instalarlo). https://www.serverless.com/
 
 Recomiendo actualizar node a la ultima version. 04/02/2021.
 
