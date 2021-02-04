@@ -7,11 +7,15 @@ Pre-requisitos:
   - NodeJS. https://nodejs.org/es/
   - Serverless Framework. https://www.serverless.com/
 
+Recomiendo actualizar node a la ultima version. 04/02/2021.
+
 Comandos:
 
     git clone https://github.com/altaga/NextJS-AWS-Deploy
 
     cd NextJS-AWS-Deploy
+
+    npm install
   
 package.json
   
