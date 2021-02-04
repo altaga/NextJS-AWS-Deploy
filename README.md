@@ -20,6 +20,14 @@ serverless.yml
   
   myNextApplication:
   component: "@sls-next/serverless-component"
+
+Para mas detalles sobre el framework Serverless.
+
+https://www.serverless.com/blog/serverless-nextjs
+
+Para mas Detalles de NextJS API:
+
+https://nextjs.org/docs/api-routes/introduction
   
 Y listo. :3
   
